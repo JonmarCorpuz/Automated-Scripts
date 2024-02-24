@@ -5,7 +5,7 @@ import csv
 
 """ FUNCTIONS """
 def ASCIIart():
-    print("""
+    print('''
    dMMMMMP .aMMMb  .aMMMb  dMMMMb  dMMMMb  dMP dMP dMMMMMP 
       dMP dMP"VMP dMP"dMP dMP.dMP dMP.dMP dMP dMP   .dMP"  
      dMP dMP     dMP dMP dMMMMK" dMMMMP" dMP dMP  .dMP"    
@@ -17,7 +17,7 @@ VMMMP"  VMMMP"  VMMMP" dMP dMP dMP      VMMMP" dMMMMMP
   VMMMb  dMP     dMMMMK" dMP dMMMMP"   dMP    VMMMb        
 dP .dMP dMP.aMP dMP"AMF dMP dMP       dMP   dP .dMP        
 VMMMP"  VMMMP" dMP dMP dMP dMP       dMP    VMMMP"  
-    """)
+    ''')
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("")
 

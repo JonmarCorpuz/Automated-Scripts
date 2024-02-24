@@ -6,15 +6,17 @@ import csv
 """ FUNCTIONS """
 def ASCIIart():
     print("""
-                 d8b                          d8,                            d8,                  
-   d8P           ?88                         `8P                      d8P   `8P                   
-d888888P          88b                                              d888888P                       
-  ?88'   d8888b   888  d88' d8888b  88bd88b   88bd88888P  d888b8b    ?88'    88b d8888b   88bd88b 
-  88P   d8P' ?88  888bd8P' d8b_,dP  88P' ?8b  88P   d8P' d8P' ?88    88P     88Pd8P' ?88  88P' ?8b
-  88b   88b  d88 d88888b   88b     d88   88P d88  d8P'   88b  ,88b   88b    d88 88b  d88 d88   88P
-  `?8b  `?8888P'd88' `?88b,`?888P'd88'   88bd88' d88888P'`?88P'`88b  `?8b  d88' `?8888P'd88'   88b
-
-by Jonmar Corpuz
+   dMMMMMP .aMMMb  .aMMMb  dMMMMb  dMMMMb  dMP dMP dMMMMMP 
+      dMP dMP"VMP dMP"dMP dMP.dMP dMP.dMP dMP dMP   .dMP"  
+     dMP dMP     dMP dMP dMMMMK" dMMMMP" dMP dMP  .dMP"    
+dK .dMP dMP.aMP dMP.aMP dMP"AMF dMP     dMP.aMP .dMP"      
+VMMMP"  VMMMP"  VMMMP" dMP dMP dMP      VMMMP" dMMMMMP     
+                                                           
+   .dMMMb  .aMMMb  dMMMMb  dMP dMMMMb dMMMMMMP .dMMMb      
+  dMP" VP dMP"VMP dMP.dMP amr dMP.dMP   dMP   dMP" VP      
+  VMMMb  dMP     dMMMMK" dMP dMMMMP"   dMP    VMMMb        
+dP .dMP dMP.aMP dMP"AMF dMP dMP       dMP   dP .dMP        
+VMMMP"  VMMMP" dMP dMP dMP dMP       dMP    VMMMP"  
     """)
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("")

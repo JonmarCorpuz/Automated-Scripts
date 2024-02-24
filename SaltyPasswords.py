@@ -1,12 +1,17 @@
 """ FUNCTIONS """
 def ASCIIart():
     print("""
-.▄▄ ·  ▄▄▄· ▄▄▌  ▄▄▄▄▄ ▄· ▄▌     ▄▄▄· ▄▄▄· .▄▄ · .▄▄ · ▄▄▌ ▐ ▄▌      ▄▄▄  ·▄▄▄▄  .▄▄ · 
-▐█ ▀. ▐█ ▀█ ██•  •██  ▐█▪██▌    ▐█ ▄█▐█ ▀█ ▐█ ▀. ▐█ ▀. ██· █▌▐█▪     ▀▄ █·██▪ ██ ▐█ ▀. 
-▄▀▀▀█▄▄█▀▀█ ██▪   ▐█.▪▐█▌▐█▪     ██▀·▄█▀▀█ ▄▀▀▀█▄▄▀▀▀█▄██▪▐█▐▐▌ ▄█▀▄ ▐▀▀▄ ▐█· ▐█▌▄▀▀▀█▄
-▐█▄▪▐█▐█ ▪▐▌▐█▌▐▌ ▐█▌· ▐█▀·.    ▐█▪·•▐█ ▪▐▌▐█▄▪▐█▐█▄▪▐█▐█▌██▐█▌▐█▌.▐▌▐█•█▌██. ██ ▐█▄▪▐█
- ▀▀▀▀  ▀  ▀ .▀▀▀  ▀▀▀   ▀ •     .▀    ▀  ▀  ▀▀▀▀  ▀▀▀▀  ▀▀▀▀ ▀▪ ▀█▄▀▪.▀  ▀▀▀▀▀▀•  ▀▀▀▀
-by Jonmar Corpuz
+   dMMMMMP .aMMMb  .aMMMb  dMMMMb  dMMMMb  dMP dMP dMMMMMP 
+      dMP dMP"VMP dMP"dMP dMP.dMP dMP.dMP dMP dMP   .dMP"  
+     dMP dMP     dMP dMP dMMMMK" dMMMMP" dMP dMP  .dMP"    
+dK .dMP dMP.aMP dMP.aMP dMP"AMF dMP     dMP.aMP .dMP"      
+VMMMP"  VMMMP"  VMMMP" dMP dMP dMP      VMMMP" dMMMMMP     
+                                                           
+   .dMMMb  .aMMMb  dMMMMb  dMP dMMMMb dMMMMMMP .dMMMb      
+  dMP" VP dMP"VMP dMP.dMP amr dMP.dMP   dMP   dMP" VP      
+  VMMMb  dMP     dMMMMK" dMP dMMMMP"   dMP    VMMMb        
+dP .dMP dMP.aMP dMP"AMF dMP dMP       dMP   dP .dMP        
+VMMMP"  VMMMP" dMP dMP dMP dMP       dMP    VMMMP"  
      """)
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("")

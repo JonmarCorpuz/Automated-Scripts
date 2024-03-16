@@ -55,7 +55,7 @@ if [ "$#" -eq 1 ]; then
 					# Créer les fichiers qu'on va utiliser dans ce script
 					rm Users.txt &> /dev/null
 					touch Users.txt 
-					touch TP1.log
+					touch CreateUsers.log
 	
 				# Afficher un message d'erreur pour demander à l'utilisateur de changer le nom de son fichier texte et quitter le script
 				else
@@ -80,7 +80,7 @@ if [ "$#" -eq 1 ]; then
 		# Afficher un message d'erreur pour aviser l'utilisateur que le script n'a pas été éxécuter en tant que root et quitter le script
 		else
 
-			echo "Usage: sudo ./TP1.sh <FICHIER TEXT>"
+			echo "Usage: sudo ./CreateUsers.sh <FICHIER TEXT>"
 			echo "$CurrentDate - [ERREUR 120] Le script n'a pas été éxécuté correctement." >> TP1.log
 			echo "========================================================================" >> TP1.log
 			exit

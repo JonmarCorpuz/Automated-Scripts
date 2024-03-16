@@ -243,10 +243,10 @@ echo ""
 echo "Exiting..."
 
 # ==================================================================================================== #
-# SOCIALS:
-# 	
-# 	- LinkedIn: 	www.linkedin.com/jonmarcorpuz
-#	- Github: 	www.github.com/jonmarcorpuz
-#	- TryHackMe:	www.tryhackme.com/p/JonmarCorpuz	
-# 
+# SOCIALS:											       #
+# 												       #
+# 	- LinkedIn: 	www.linkedin.com/jonmarcorpuz						       #
+#	- Github: 	www.github.com/jonmarcorpuz						       #
+#	- TryHackMe:	www.tryhackme.com/p/JonmarCorpuz					       #
+# 												       #
 # ==================================================================================================== #

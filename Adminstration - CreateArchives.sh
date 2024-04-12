@@ -8,6 +8,23 @@
 # - Conserver uniquement les 3 plus récentes archives   						   	#
 # --------------------------------------------------------------------------------------------------------- #
 
+echo '''
+   dMMMMMP .aMMMb  .aMMMb  dMMMMb  dMMMMb  dMP dMP dMMMMMP 
+      dMP dMP"VMP dMP"dMP dMP.dMP dMP.dMP dMP dMP   .dMP"  
+     dMP dMP     dMP dMP dMMMMK" dMMMMP" dMP dMP  .dMP"    
+dK .dMP dMP.aMP dMP.aMP dMP"AMF dMP     dMP.aMP .dMP"      
+VMMMP"  VMMMP"  VMMMP" dMP dMP dMP      VMMMP" dMMMMMP     
+                                                           
+   .dMMMb  .aMMMb  dMMMMb  dMP dMMMMb dMMMMMMP .dMMMb      
+  dMP" VP dMP"VMP dMP.dMP amr dMP.dMP   dMP   dMP" VP      
+  VMMMb  dMP     dMMMMK" dMP dMMMMP"   dMP    VMMMb        
+dP .dMP dMP.aMP dMP"AMF dMP dMP       dMP   dP .dMP        
+VMMMP"  VMMMP" dMP dMP dMP dMP       dMP    VMMMP"                                                                                                          
+'''
+
+echo "Ce script fait parti de l'ensemble des JCORPUZ SCRIPTS et sert à créer des nouveaux utilisateurs à partir d'un FICHIER TEXT fourni par l'utilisateur."
+echo ""
+
 # Assurer que l'utilisateur éxécute le script correctement
 if [ "$#" -eq 1 ] && [ "$EUID" -eq 0 ]; then
 
